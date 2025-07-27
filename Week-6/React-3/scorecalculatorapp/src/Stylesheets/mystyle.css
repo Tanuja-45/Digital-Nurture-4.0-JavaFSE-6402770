@@ -1,0 +1,33 @@
+.score {
+   
+  width: 400px;
+  padding: 20px;
+  margin: auto;
+  margin-top: 50px;
+  text-align: left;
+  font-family: Arial, sans-serif;
+}
+h1{
+    color:blueviolet;
+    text-align: center;
+}
+p{
+    font-weight: bold;
+    text-align: center;
+}
+.p1{
+    color: darkred;
+    
+}
+.p2{
+  color:skyblue
+}
+.p3{
+    columns: lightgreen;
+}
+.p4{
+    color: darkorange;
+}
+.p5{
+    color: darkslateblue;
+}
